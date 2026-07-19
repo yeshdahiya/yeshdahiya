@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+DSA+%2B+Web+Development;Next+up%3A+Integrating+Web+Dev+with+AI;C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Internships-7dd3fc?style=for-the-badge" alt="Open to Work"/>
+<span style="display:inline-block;padding:8px 16px;background-color:#7dd3fc;color:#000;font-weight:bold;font-family:sans-serif;border-radius:6px;">🟢 OPEN TO WORK — INTERNSHIPS</span>
 
 <img src="https://komarev.com/ghpvc/?username=yeshdahiya&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/yeshdahiya?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&logo=github&logoColor=white" alt="Followers"/>
+<a href="https://github.com/yeshdahiya?tab=followers"><span style="display:inline-block;padding:8px 16px;background-color:#161b22;color:#7dd3fc;font-weight:bold;font-family:sans-serif;border-radius:6px;border:1px solid #7dd3fc;">FOLLOWERS</span></a>
 
 </div>
 
