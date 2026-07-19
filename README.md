@@ -24,7 +24,7 @@ const yeshDahiya = {
     languages: ["C++", "JavaScript", "HTML", "CSS"],
   },
   currentlyLearning: ["Data Structures & Algorithms", "Web Development"],
-  launchedProjects: [], // 
+  launchedProjects: [], 
   certifications: [],
   status: "Learning DSA + Web Dev now, integrating AI next",
   openTo: "Internships where I can learn things that actually matter",
