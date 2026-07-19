@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=200&section=header&text=Yesh%20Dahiya&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=20"/>
+<img width="100%" src="./space_header.svg" alt="Yesh Dahiya - Aspiring Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+DSA+%2B+Web+Development;Next+up%3A+Integrating+Web+Dev+with+AI;C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS" alt="Typing SVG" />
@@ -46,22 +46,7 @@ const yeshDahiya = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yeshdahiya&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshdahiya&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=yeshdahiya&theme=nord&hide_border=true&border_radius=8&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=yeshdahiya&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
