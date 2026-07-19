@@ -79,12 +79,8 @@ const yeshDahiya = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yesh-dahiya-ece-nsut/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:yeshdahiyaa0001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/yesh-dahiya-ece-nsut/" target="_blank"><span style="display:inline-block;padding:8px 16px;background-color:#0A66C2;color:#fff;font-weight:bold;font-family:sans-serif;border-radius:6px;">LinkedIn</span></a>
+<a href="mailto:yeshdahiyaa0001@gmail.com"><span style="display:inline-block;padding:8px 16px;background-color:#7dd3fc;color:#000;font-weight:bold;font-family:sans-serif;border-radius:6px;">Email</span></a>
 
 </div>
 
